@@ -48,6 +48,8 @@ get shown in your terminal
 
 
 /usr/bin/input-remapper-control
+
+
 /usr/lib/python3/dist-packages/inputremapper/daemon.py
 
 
