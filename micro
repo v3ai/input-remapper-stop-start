@@ -1,0 +1,7 @@
+#!/bin/bash
+
+input-remapper-control --command stop-all
+
+mic $1
+
+input-remapper-control --command autoload || exit
